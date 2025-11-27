@@ -1,16 +1,38 @@
-## Hi there 👋
+#  Hi, I'm Nikil Ramakrishnan
 
-<!--
-**Nikilramakrishnan/Nikilramakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Cloud | SRE | DevOps Engineer  
+Passionate about building scalable cloud infrastructure, automating deployments, and improving system reliability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+- Working as a **Cloud Administrator** (Azure, Infrastructure, VM/Network management)  
+-  Skilled in **Azure, Linux, Docker, Kubernetes, Terraform, IIS, SQL, CI/CD**  
+-  Experienced in **Azure VM provisioning, VPN setups, AKS management, SSL configurations, and backup operations**  
+-  Actively working on DevOps/SRE projects and improving cloud automation skills  
+-  Always exploring new cloud-native tools and best practices  
+
+---
+
+##  Skills & Tools
+- **Cloud:** Azure, Azure Backup, Bastion, VPN Gateway, AKS  
+- **Infra:** Linux, Windows, IIS, SQL Servers  
+- **DevOps:** Docker, Kubernetes, GitHub Actions, CI/CD  
+- **IaC:** Terraform, ARM Templates  
+- **Monitoring:** Azure Monitor, Grafana, Prometheus  
+- **Scripting:** Bash, PowerShell  
+- **Version Control:** Git & GitHub  
+
+---
+
+## Current Projects
+- 🔹 Azure VM Provisioning using **Terraform**  
+- 🔹 Dockerized web app with **GitHub Actions CI/CD**  
+- 🔹 AKS Deployment demo  
+- 🔹 Backup automation using PowerShell  
+
+---
+
+##  Connect With Me
+**LinkedIn:** https://www.linkedin.com/in/nikil-r-9881a7232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+**Email:** nikilramakrishnan@gmail.com  
